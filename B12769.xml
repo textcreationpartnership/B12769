@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation concerning fines for alienations of lands holden in chiefe, made without record.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12769</idno><idno type="EEBO-CITATION">99892344</idno>
+  <idno type="VID">187189</idno>
+  <idno type="EEBO-PROQUEST">2240934347</idno>
+  
+            <idno type="STC">STC 8423</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[93]</idno>
+            <idno type="PROQUEST">ocm99892344</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892344e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187189)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[93])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation concerning fines for alienations of lands holden in chiefe, made without record.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1608.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated on sheet 2: Hampton Court the first day of October, in the sixt yeere of our reigne ..</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Land titles --  Registration and transfer --  England --  Early works to 1800.</term>
+               <term type="topical_term">Land titles --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187189:1"/>
+            <head>❧ By the King.</head>
+            <head type="sub">¶ A Proclamation concerning Fines for Alienations of Lands <hi>holden in Chiefe, made without Record.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas it is acknowledged by all men (as it must needes</hi> be) that Fines for Alienations of Lands holden in Chiefe, are of right due vnto Vs and our Crowne, as one of the most Ancient, Iust, and Royal reuenues be<g ref="char:EOLhyphen"/>longing to the same; And yet it is as well knowen, that Lands of that nature haue been, and are often Aliened by Feoffements, Grants of Reuersions, Wils, Exchanges, Couenants, and other like Conueiances made without Record, for which no Fines are answered, only because the Cōueiances are not of Record, &amp; therfore cannot come (without great charge) to the knowledge of our Officers, to whose care the same doth appertaine, but are wilfully, and against conscience by the Purchasers hidden and concealed, whereas Fines are as well due in that case, as if the same Conueiances were of Record, and are accordingly required &amp; payd without exception, wheresoeuer they are discouered: In which respect, there was about a yere past, in diuers Counties a course taken, as wel to finde out such Alienations without Record by Commissi<g ref="char:EOLhyphen"/>ons of enquiry, and other lawfull meanes, as also to require and take such Fines as should be found due according to the lawe, of all those that should appeare to be liable to the same Fines.</p>
+            <p>Forasmuch as we haue euer bene enclined to vse grace and fauour, rather then seuerity, euen in those things which all men knowe to be most clearly due to Vs, as in this case amongst others, wherein no man can challenge any exemption in course of Iustice from payment of a full yeeres value of the Lands so Aliened, especially being such as haue so ill deserued any fauour at our hands, from whom they haue so long withheld our Due, and meant still to doe, vnlesse they should be by some extraordi<g ref="char:EOLhyphen"/>nary care and charge layed open &amp; discouered, we haue been pleased (notwithstanding all their former courses, so farre to the preiudice of Vs in our iust Dueties and Demaunds) both to make stay of execu<g ref="char:EOLhyphen"/>tion of all and euery of those Commissions, and other enquiries formerly sent out, whereof the charge and disquiet would fall heauily vpon our Subiects: and haue also resolued by this our gracious Pro<g ref="char:EOLhyphen"/>clamation to make knowen to all those who know themselues answerable for any such fines, that We will be content out of our princely fauour to forbeare those meanes which will easily discouer trueth, and remit vnto them the greater part of our Fines, according to the Articles hereunto annexed. Pro<g ref="char:EOLhyphen"/>uided alwayes, that they shall willingly and dutifully pay the rest of that which we shall not forgiue, for our owne proper vse into the Office of Alienations, where our Ministers wil be ready to giue them a discharge vpon receit thereof.</p>
+            <p>Of which great fauour, ease &amp; benefit, though we are well perswaded that most of our louing Sub<g ref="char:EOLhyphen"/>iects, as well in discretion as in duety, will be glad to take hold, and to yeeld Vs a grateful acceptation; neuerthelesse, because Wee haue had good experience that many persons are more apt to shew them<g ref="char:EOLhyphen"/>selues backward in taking hold of grace and fauour, when the same is offered, then otherwise, Wee finde it likewise necessary for Vs in cases of this nature (where by Fraud and Couine our ancient Rights are sought to be concealed or extinguished by the practise of priuate men, or are omitted or neg<g ref="char:EOLhyphen"/>lected by those that should search after things of that nature) to declare hereby, that whosoeuer shall not offer himselfe to make such satisfaction as is expressed in the Articles hereafter mentioned, before the end of Hillary Terme next, at the furthest, must not expect any further fauour at our hands, then
+<pb facs="tcp:187189:2"/>that which they may challenge by the course of our Lawes, which no man can bind vs to mitigate further then he should deserue, or We shall be disposed to doe out of our inward clemencie, which Prin<g ref="char:EOLhyphen"/>ces seldome vse, when wilfully the same is not accepted, according to that grace and bounty wherwith it is offered.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen vnder our hand at our Honour of Hampton Court <date>the first day of October, in the sixt yeere of our Reigne of great Britaine, France and Ireland.</date>
+                  </hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="summary">
+            <head>❧ The Articles in this Proclamation mentioned.</head>
+            <p n="1">NO Fines shalbe required for Alienations without record, but where those Alienations were made sithence the fourteenth yeere of the late Queene <hi>Elizabeth.</hi>
+            </p>
+            <p n="2">THe Fines for Alienations of Estates of inheritance past, shalbe for such as come in, and offer Composition vpon this Proclamation, but a third part of the yeeres value: But if they come not in betweene the date of this Proclamation, and the end of <hi>Hillarie</hi> Terme next, then to pay, (as by Law they ought) the yeeres value.</p>
+            <p n="3">ANd for A<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ienations of Estates for liues past, the Fines shalbe the fourth part onely of the yeeres value, if they yeeld themselues voluntarily within the time aforesaid, Or otherwise to pay the whole yeeres value, As in the case of Estates of Inheritance, the Law making no difference in these Cases.</p>
+            <p n="4">VPon Alienations of Estates of Inheritance that shall be made hereafter without Record, there shall be payed but two parts of the three, of so much as shall bee due by Law, in such Cases both vpon Pardons and Licenses, if the parties themselues within foure moneths after such Alienations made, shall first discouer the same, and offer Composition at our Office of Alienations.</p>
+            <p n="5">VPon Estates for Liues that shalbe made hereafter without Record, there shalbe payd vpon Licenses and Pardons both, but the halfe of that, that by Law ought to bee payd in such Cases, if the parties themselues discouer the same, and offer Composition within the foure moneths as aforesaid.</p>
+            <p n="6">THe valuation of Lands in these Cases, shall not be made according to the very value, but as is vsed in the Office of Alienations, where these Alienations shall be ordered as all others are: And therefore for instruction in that behalfe, it will be necessary that the Conueyances be brought and shewed to the Officers there.</p>
+            <p n="7">NO Fine at all shall bee required vpon Alienation of Estates for life or liues past, where the Estate is ended without fraud.</p>
+            <p n="8">SVch as shall pay their Composition for Alienations past, shall haue this ease in passing of their Pardons, that many may be ioyned in a Pardon, and pay among them but the charge of one Pardon, and the same charge shalbe no more then the charge was for the Pardons gran<g ref="char:EOLhyphen"/>ted vpon the Coronation.</p>
+            <p n="9">SVch as shall pay their Composition in such Case for the time past, shall not bee compelled to plead their Conueyance in the Exchequer at large, as the vse is.</p>
+            <p>¶ They that shall compound, shall not need to appeare in person, but may take order by Attor<g ref="char:EOLhyphen"/>neys or Solicitors to dispatch that businesse in the Terme time at the Office of Alienations, where they shall finde the Officers ready to giue them dispatch.</p>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by the Deputies of Robert Barker, <hi>Printer to the Kings most Excellent Maiestie.</hi> Anno 1608.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
